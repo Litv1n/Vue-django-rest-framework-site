@@ -36,6 +36,46 @@ const router = createRouter({
       name: 'calculator',
       component: () => import('../views/Calculator.vue')
     },
+    {
+      path: '/first',
+      name: 'first',
+      component: () => import('../views/First.vue')
+    },
+    {
+      path: '/auto',
+      name: 'auto',
+      component: () => import('../views/Auto.vue')
+    },
+    {
+      path: '/drivers',
+      name: 'drivers',
+      component: () => import('../views/Drivers.vue')
+    },
+    {
+      path: '/disp',
+      name: 'disp',
+      component: () => import('../views/Disp.vue')
+    },
+    {
+      path: '/conc',
+      name: 'conc',
+      component: () => import('../views/Conc.vue')
+    },
+    {
+      path: '/gibc',
+      name: 'gibc',
+      component: () => import('../views/Gibc.vue')
+    },
+    {
+      path: '/stab',
+      name: 'stab',
+      component: () => import('../views/Stab.vue')
+    },
+    {
+      path: '/col',
+      name: 'col',
+      component: () => import('../views/Col.vue')
+    },
   ]
 })
 

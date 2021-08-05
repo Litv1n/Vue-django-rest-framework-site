@@ -12,6 +12,7 @@
     <div class="col-12">
       <p>Телефон: +7 (123) 421-72-90 </p>
       <p>Телефон: +7 (123) 121-11-90 </p>
+      <p>Напишите на нашу почту, если вас интересует сотрудничество с нами.</p>
       <p>Почта: <a href="mailto: transport_company@gmail.com">transport_company@gmail.com</a></p>
       <p>Скайп: Vibe123</p>
       <p>Телеграм: @transport_help</p>

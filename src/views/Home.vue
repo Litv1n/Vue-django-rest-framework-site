@@ -10,7 +10,7 @@
         <div class="tm-gallery">
             <div class="row">
                 <figure class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
-                    <router-link to="/preview">
+                    <router-link to="/auto">
                         <div class="tm-gallery-item-overlay">
                             <img src="img/image-01.jpg" alt="Image" class="img-fluid tm-img-center">
                         </div>
@@ -19,7 +19,7 @@
                     </router-link>
                 </figure>
                 <figure class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
-                    <router-link to="/preview">
+                    <router-link to="/drivers">
                         <div class="tm-gallery-item-overlay">
                             <img src="img/image-02.jpg" alt="Image" class="img-fluid tm-img-center">
                         </div>
@@ -27,7 +27,7 @@
                     </router-link>
                 </figure>
                 <figure class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
-                    <router-link to="/preview">
+                    <router-link to="/disp">
                         <div class="tm-gallery-item-overlay">
                             <img src="img/image-03.jpg" alt="Image" class="img-fluid tm-img-center">
                         </div>
@@ -35,7 +35,7 @@
                     </router-link>
                 </figure>
                 <figure class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
-                    <router-link to="/preview">
+                    <router-link to="/conc">
                         <div class="tm-gallery-item-overlay">
                             <img src="img/image-04.jpg" alt="Image" class="img-fluid tm-img-center">
                         </div>
@@ -43,7 +43,7 @@
                     </router-link>
                 </figure>
                 <figure class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
-                    <router-link to="/preview">
+                    <router-link to="/gibc">
                         <div class="tm-gallery-item-overlay">
                             <img src="img/image-05.jpg" alt="Image" class="img-fluid tm-img-center">
                         </div>
@@ -51,7 +51,7 @@
                     </router-link>
                 </figure>
                 <figure class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
-                    <router-link to="/preview">
+                    <router-link to="/first">
                         <div class="tm-gallery-item-overlay">
                             <img src="img/image-06.jpg" alt="Image" class="img-fluid tm-img-center">
                         </div>
@@ -59,7 +59,7 @@
                     </router-link>
                 </figure>
                 <figure class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
-                    <router-link to="/preview">
+                    <router-link to="/stab">
                         <div class="tm-gallery-item-overlay">
                             <img src="img/image-07.jpg" alt="Image" class="img-fluid tm-img-center">
                         </div>
@@ -67,7 +67,7 @@
                     </router-link>
                 </figure>
                 <figure class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
-                    <router-link to="/preview">
+                    <router-link to="/col">
                         <div class="tm-gallery-item-overlay">
                             <img src="img/image-08.jpg" alt="Image" class="img-fluid tm-img-center">
                         </div>
@@ -94,7 +94,9 @@
 export default {
     name: 'home',
     components: {
+        data() {
 
+        }
     }
 }
 </script>
