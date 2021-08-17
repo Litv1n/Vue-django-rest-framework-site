@@ -33,7 +33,7 @@
             <figure class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item mb-5">
                 <router-link to="/gibc">
                     <div class="tm-gallery-item-overlay">
-                        <img src="img/image-08.jpg" alt="Image" class="img-fluid tm-img-center">
+                        <img src="img/image-05.jpg" alt="Image" class="img-fluid tm-img-center">
                     </div>
                     <p class="tm-figcaption no-pad-b">Гибкость</p>
                 </router-link>
@@ -41,7 +41,7 @@
             <figure class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item mb-5">
                 <router-link to="/col">
                     <div class="tm-gallery-item-overlay">
-                        <img src="img/image-05.jpg" alt="Image" class="img-fluid tm-img-center">
+                        <img src="img/image-08.jpg" alt="Image" class="img-fluid tm-img-center">
                     </div>
                     <p class="tm-figcaption no-pad-b">Коллектив</p>
                 </router-link>
