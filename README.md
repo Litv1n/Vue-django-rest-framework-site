@@ -1,24 +1,49 @@
-# frontend
+# Frontend
+
+**Frontend part of the project takes posts from the [backend part](https://github.com/Litv1n/post-api-app).**
+
+**Full project deployed on the [heroku server](https://withered-firefly-7020.herokuapp.com/calculator).**
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Run the project.
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Usage
+
+### Home page
+
 ```
-npm run build
+http://localhost:8080/
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Posts
 
-### About porject
-This frontend part of the project takes posts model from django-rest-framework project made by me.
-I deployed DRF project on the Heroku - https://young-garden-17464.herokuapp.com/api/posts/ and frontend part takes posts from the backend part.
-Also, I made pages without reloading with the help of Vue router. Final site - https://withered-firefly-7020.herokuapp.com/ is deployed on the Heroku.
+The ```url``` below takes items from the backend. To run the backend part of the project read the [instruction](https://github.com/Litv1n/post-api-app) for the backend.
+
+```
+http://localhost:8080/posts
+```
+
+### Team page
+
+```
+http://localhost:8080/team
+```
+
+### Contact page
+
+```
+http://localhost:8080/contact
+```
+
+### Calculate the amount for the order
+
+```
+http://localhost:8080/calculator
+```
